@@ -14,12 +14,13 @@ organizations:
   url: https://www.oii.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational social science to study climate change communication online.
+bio: My research interests include computational social science to study environmental communication online.
 
 # Interests to show in About widget
 interests:
 - Computational Linguistics
-- Climate Change 
+- Psycholinguistcs
+- Environmental communication
 - Social Media Analysis
 
 # Education to show in About widget
@@ -73,4 +74,4 @@ highlight_name: true
 I am a PhD candidate in Social Data Science at the Oxford Internet Institute. My research pertains to the application of natural language processing, computational linguistics, and cognitive science to study online environmental communication. My PhD research is funded by the ESRC's Grand Union Doctoral Training Partnership, as part of the Advanced Quantitative Methods pathway. I have work experience in international policy research, business technology, financial management, and defense research. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sanford_CV_10-2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
